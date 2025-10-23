@@ -490,7 +490,7 @@ export default function HomePage() {
       >
         <p>© {new Date().getFullYear()} ReviewSift — Your AI Review Detective 🕵️‍♂️</p>
         <div style={{ marginTop: '15px', display: 'flex', justifyContent: 'center' }}>
-          <a href="#" style={{ 
+          <a href="https://github.com/Pim-Ing/review-sift-new" style={{ 
             color: '#b5ff2f', 
             textDecoration: 'none',
             padding: '8px 16px',
